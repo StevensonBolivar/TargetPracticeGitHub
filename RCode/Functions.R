@@ -62,7 +62,7 @@ PrintRef <- function(Df){
   TMP |> str_remove_all("NULL")
 }
 
-PrintRefDf <- function(Df,FileName="NewCitations"){
+PrintRefDf <- function(Df,FileName="NewCitations.txt"){
   TMP= map(1:nrow(Df),~PrintRef(Df[.x,])) 
   dir.create("Results", showWarnings = FALSE)  # Ensure the folder exists
   full_path <- file.path("Results", FileName) 
