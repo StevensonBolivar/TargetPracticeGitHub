@@ -5,12 +5,9 @@ source(str_c("RCode\\",dir("RCode"),sep=""))
 
 FileName <- "Data\\citations.txt"
 Citations <- LoadCitations(FileName) 
-Citations2 <- Citations |> 
-  CleanStep1Df() 
-CitationsW <- Citations2 |> 
-  WiderCitations() 
-CitationsList <-  CitationsW |> 
-  GenID_Df() 
+Citations2 <- Citations |> CleanStep1Df() 
+CitationsW <- Citations2 |> WiderCitations() 
+CitationsList <-  CitationsW |> GenID_Df() 
 
 ResFinal <- PrintRefDf(CitationsList)
 
@@ -19,8 +16,12 @@ library(tarchetypes)
 use_targets()
 
 tar_manifest()
-tar_visnetwork()
+  tar_visnetwork()
+
 tar_make()
+  tar_visnetwork()
+  tar_visnetwork(targets_only = TRUE)
+
 tar_meta(fields = "error") |> drop_na() |> pull()
 
 #tar_destroy()
