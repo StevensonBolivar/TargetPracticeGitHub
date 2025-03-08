@@ -51,35 +51,20 @@ tar_source("RCode")
 
 # Replace the target list below with your own:
 list(
-  tar_target(
-    FileName,"Data/citations.txt",format="file"
-  ),
-  tar_target(
-    Citations,LoadCitations(FileName),
-  ),
-  tar_target(
-    Citations2,CleanStep1Df(Citations)
-  ),
-  tar_target(
-    CitationsW,WiderCitations(Citations2)
-  ),
-  tar_target(
-    CitationsList,GenID_Df(CitationsW)
-  ),
-  tar_target(
-    ResFinal,PrintRefDf(CitationsList,"NewFile.txt"),format = "file"
+  tar_target(name=FileName,
+             command="Data/citations.txt",
+             format="file"),
+  tar_target(name=Citations,
+             command=LoadCitations(FileName)),
+  tar_target(name=Citations2,
+             command=CleanStep1Df(Citations)),
+  tar_target(name=CitationsW,
+             command=WiderCitations(Citations2)),
+  tar_target(name=CitationsList,
+             command=GenID_Df(CitationsW)),
+  tar_target(name=ResFinal,
+             command=PrintRefDf(CitationsList,"NewFile.txt"),
+             format = "file"
   )
 )
-# list(
-#   # Define a file dependency
-#   tar_target(
-#     FileName, 
-#     "citations.txt", 
-#     format = "file"
-#   ),
-#   # Read the file
-#   tar_target(
-#     file_contents, 
-#     readLines(FileName)  # Use readLines for text files, or read_csv() for CSVs
-#   )
-# )
+
