@@ -1,0 +1,413 @@
+@article{BarigozziLaVecchiaLiu2025},
+  title={General spatio-temporal factor models for high-dimensional random fields on a lattice},
+  author={Matteo Barigozzi and Davide La Vecchia and Hang Liu},
+  journal={The Annals of Statistics},
+  pages={268 -- 294},
+  year={2025}
+}
+@misc{FengGaoLiuPeng2024},
+  title={Estimation and Inference for Three-Dimensional Panel Data Models},
+  author={Guohua Feng and Jiti Gao and Fei Liu and Bin Peng},
+  journal={},
+  pages={},
+  year={2024}
+}
+@misc{BaninBarigozziTrapin2025},
+  title={Predicting Energy Demand with Tensor Factor Models},
+  author={Mattia Banin and Matteo Barigozzi and Luca Trapin},
+  journal={},
+  pages={},
+  year={2025}
+}
+@misc{WangZhengLianLi2020},
+  title={High-dimensional vector autoregressive time series modeling via tensor decomposition},
+  author={Di Wang and Yao Zheng and Heng Lian and Guodong Li},
+  journal={},
+  pages={},
+  year={2020}
+}
+@misc{BarigozziHeLiTrapani2023},
+  title={Robust Tensor Factor Analysis},
+  author={Matteo Barigozzi and Yong He and Lingxiao Li and Lorenzo Trapani},
+  journal={},
+  pages={},
+  year={2023}
+}
+@misc{BarigozziChoMaeng2025},
+  title={Tail-robust factor modelling of vector and tensor time series in high dimensions},
+  author={Matteo Barigozzi and Haeran Cho and Hyeyoung Maeng},
+  journal={},
+  pages={},
+  year={2025}
+}
+@article{CenLam2025},
+  title={Tensor time series imputation through tensor factor modelling},
+  author={Zetai Cen and Clifford Lam},
+  journal={Journal of Econometrics},
+  pages={105974},
+  year={2025}
+}
+@article{ZhangBiTangQu2021},
+  title={Dynamic Tensor Recommender Systems},
+  author={Yanqing Zhang and Xuan Bi and Niansheng Tang and Annie Qu},
+  journal={Journal of Machine Learning Research},
+  pages={1--35},
+  year={2021}
+}
+@article{BarigozziHeLiTrapani2023},
+  title={Statistical inference for large-dimensional tensor factor model by iterative projections},
+  author={Barigozzi, Matteo and He, Yong and Li, Lingxiao and Trapani, Lorenzo},
+  journal={arXiv preprint},
+  pages={},
+  year={2023}
+}
+@article{ChenYangZhang2022},
+  title={Factor models for high-dimensional tensor time series},
+  author={Chen, Rong and Yang, Dan and Zhang, Cun-Hui},
+  journal={Journal of the American Statistical Association},
+  pages={1--23},
+  year={2022}
+}
+@article{WangZhengLi2024},
+  title={High-dimensional low-rank tensor autoregressive time series modeling},
+  author={Di Wang and Yao Zheng and Guodong Li},
+  journal={Journal of Econometrics},
+  pages={105544},
+  year={2024}
+}
+@article{EunLeeZhang2024},
+  title={Conditional mean dimension reduction for tensor time series},
+  author={Chung Eun Lee and Xin Zhang},
+  journal={Computational Statistics \& Data Analysis},
+  pages={107998},
+  year={2024}
+}
+@article{HanChenZhang2022},
+  title={Rank determination in tensor factor model},
+  author={Han, Yuefeng and Chen, Rong and Zhang, Cun-Hui},
+  journal={Electronic Journal of Statistics},
+  pages={1726--1803},
+  year={2022}
+}
+@article{HanChenYangZhang2024},
+  title={Tensor Factor Model Estimation by Iterative Projection},
+  author={Yuefeng Han and Rong Chen and Dan Yang and Cun-Hui Zhang},
+  journal={The Annals of Statistics},
+  pages={2641--2667},
+  year={2024}
+}
+@article{HanYangZhangChen2024},
+  title={CP factor model for dynamic tensors},
+  author={Han, Yuefeng and Yang, Dan and Zhang, Cun-Hui and Chen, Rong},
+  journal={Journal of the Royal Statistical Society Series B: Statistical Methodology},
+  pages={qkae036},
+  year={2024}
+}
+@article{ChenHanYu2024},
+  title={Estimation and Inference for CP Tensor Factor Models},
+  author={Chen, Bin and Han, Yuefeng and Yu, Qiyang},
+  journal={arXiv preprint arXiv:2406.17278},
+  pages={},
+  year={2024}
+}
+@article{Tsay2024},
+  title={Matrix-Variate Time Series Analysis: A Brief Review and Some New Developments},
+  author={Tsay, Ruey S.},
+  journal={International Statistical Review},
+  pages={246--262},
+  year={2024}
+}
+@misc{LiXiao2021},
+  title={Multi-linear Tensor Autoregressive Models},
+  author={Zebang Li and Han Xiao},
+  journal={},
+  pages={},
+  year={2021}
+}
+@article{ChenLam2024},
+  title={Rank and factor loadings estimation in time series tensor factor model by pre-averaging},
+  author={Weilin Chen and Clifford Lam},
+  journal={The Annals of Statistics},
+  pages={364 -- 391},
+  year={2024}
+}
+@article{ChenXiaCaiFan2024},
+  title={Semi-parametric tensor factor analysis by iteratively projected singular value decomposition},
+  author={Chen, Elynn Y and Xia, Dong and Cai, Chencheng and Fan, Jianqing},
+  journal={Journal of the Royal Statistical Society Series B: Statistical Methodology},
+  pages={793-823},
+  year={2024}
+}
+@misc{KongChenChenHan2024},
+  title={TEAFormers: TEnsor-Augmented Transformers for Multi-Dimensional Time Series Forecasting},
+  author={Linghang Kong and Elynn Chen and Yuzhou Chen and Yuefeng Han},
+  journal={},
+  pages={},
+  year={2024}
+}
+@misc{BarigozziTrapin2025},
+  title={Quasi maximum likelihood estimation of high-dimensional approximate dynamic matrix factor models via the EM algorithm},
+  author={Matteo Barigozzi and Luca Trapin},
+  journal={},
+  pages={},
+  year={2025}
+}
+@misc{YChenChen2019},
+  title={Modeling Dynamic Transport Network with Matrix Factor Models: with an Application to International Trade Flow},
+  author={Elynn Y. Chen and Rong Chen},
+  journal={},
+  pages={},
+  year={2019}
+}
+@misc{BarigozziCavaliereMoramarco2024},
+  title={Factor Network Autoregressions},
+  author={Matteo Barigozzi and Giuseppe Cavaliere and Graziano Moramarco},
+  journal={},
+  pages={},
+  year={2024}
+}
+@misc{ChenLam2024},
+  title={Factor Strength Estimation in Vector and Matrix Time Series Factor Models},
+  author={Weilin Chen and Clifford Lam},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{JiangShenLiGao2024},
+  title={Regularized estimation of high-dimensional matrix-variate autoregressive models},
+  author={Jiang, Hangjin and Shen, Baining and Li, Yuzhou and Gao, Zhaoxing},
+  journal={arXiv preprint},
+  pages={},
+  year={2024}
+}
+@article{CenLam2025},
+  title={On Testing Kronecker Product Structure in Tensor Factor Models},
+  author={Cen, Zetai and Lam, Clifford},
+  journal={arXiv preprint},
+  pages={},
+  year={2025}
+}
+@article{YChenFan2023},
+  title={Statistical Inference for High-Dimensional Matrix-Variate Factor Models},
+  author={Elynn Y. Chen and Jianqing Fan},
+  journal={Journal of the American Statistical Association},
+  pages={1038--1055},
+  year={2023}
+}
+@article{ChenTsayChen2019},
+  title={Constrained Factor Models for High-Dimensional Matrix-Variate Time Series},
+  author={Chen, Elynn Y and Tsay, Ruey S and Chen, Rong},
+  journal={Journal of the American Statistical Association},
+  pages={1--37},
+  year={2019}
+}
+@misc{ChenYChenBolivarChen2024},
+  title={Time-Varying Matrix Factor Models},
+  author={Bin Chen and Elynn Y. Chen and Stevenson Bolivar and Rong Chen},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{WangLiuChen2019},
+  title={Factor models for matrix-valued high-dimensional time series},
+  author={Dong Wang and Xialu Liu and Rong Chen},
+  journal={Journal of Econometrics},
+  pages={231--248},
+  year={2019}
+}
+@article{SamadiBillard2025},
+  title={On a matrix-valued autoregressive model},
+  author={Samadi, S. Yaser and Billard, Lynne},
+  journal={Journal of Time Series Analysis},
+  pages={3--32},
+  year={2025}
+}
+@article{Zhang2024},
+  title={Additive autoregressive models for matrix valued time series},
+  author={Zhang, Hong-Fan},
+  journal={Journal of Time Series Analysis},
+  pages={398--420},
+  year={2024}
+}
+@article{SunShangChen2024},
+  title={Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data},
+  author={Hu Sun and Zuofeng Shang and Yang Chen},
+  journal={ArXiv},
+  pages={},
+  year={2024}
+}
+@article{YuLiZhangTong2025},
+  title={Two-way Matrix Autoregressive Model with Thresholds},
+  author={Cheng Yu and Dong Li and Xinyu Zhang and Howell Tong},
+  journal={ArXiv},
+  pages={},
+  year={2025}
+}
+@article{ChangHeYangYao2023},
+  title={Modelling matrix time series via a tensor CP-decomposition},
+  author={Chang, Jinyuan and He, Jing and Yang, Lin and Yao, Qiwei},
+  journal={Journal of the Royal Statistical Society Series B: Statistical Methodology},
+  pages={127--148},
+  year={2023}
+}
+@article{GaoSTsay2023},
+  title={A Two-Way Transformed Factor Model for Matrix-Variate Time Series},
+  author={Zhaoxing Gao and Ruey S. Tsay},
+  journal={Econometrics and Statistics},
+  pages={83--101},
+  year={2023}
+}
+@article{HeKongTrapaniYu2023},
+  title={One-way or two-way factor model for matrix sequences?},
+  author={Yong He and Xinbing Kong and Lorenzo Trapani and Long Yu},
+  journal={Journal of Econometrics},
+  pages={1981--2004},
+  year={2023}
+}
+@article{YuLiJiangZhu2024},
+  title={Matrix GARCH Model: Inference and Application},
+  author={Cheng Yu and Dong Li and Feiyu Jiang and Ke Zhu},
+  journal={Journal of the American Statistical Association},
+  pages={1--31},
+  year={2024}
+}
+@misc{ChenGianneriniGoracciTrapani2025},
+  title={Inference in matrix-valued time series with common stochastic trends and multifactor error structure},
+  author={Rong Chen and Simone Giannerini and Greta Goracci and Lorenzo Trapani},
+  journal={},
+  pages={},
+  year={2025}
+}
+@misc{YuChenXiaoHan2024},
+  title={Dynamic Matrix Factor Models for High Dimensional Time Series},
+  author={Ruofan Yu and Rong Chen and Han Xiao and Yuefeng Han},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{HeKongYuZhangZhao2023},
+  title={Matrix Factor Analysis: From Least Squares to Iterative Projection},
+  author={Yong He and Xinbing Kong and Long Yu and Xinsheng Zhang and Changwei Zhao},
+  journal={Journal of Business \& Economic Statistics},
+  pages={1-13},
+  year={2023}
+}
+@article{ChenXiaoYang2021},
+  title={Autoregressive models for matrix-valued time series},
+  author={Rong Chen and Han Xiao and Dan Yang},
+  journal={Journal of Econometrics},
+  pages={539-560},
+  year={2021}
+}
+@misc{YuLiZhangTong2024},
+  title={Two-way Threshold Matrix Autoregression},
+  author={Cheng Yu and Dong Li and XInyu Zhang and Howell Tong},
+  journal={},
+  pages={},
+  year={2024}
+}
+@misc{WuChan2024},
+  title={Mixture Matrix-valued Autoregressive Model},
+  author={Fei Wu and Kung-Sik Chan},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{LiuChen2022},
+  title={Identification and estimation of threshold matrix-variate factor models},
+  author={Liu, Xialu and Chen, Elynn Y},
+  journal={Scandinavian Journal of Statistics},
+  pages={1383--1417},
+  year={2022}
+}
+@article{Bucci2024},
+  title={A smooth transition autoregressive model for matrix-variate time series},
+  author={Bucci, Andrea},
+  journal={Computational Economics},
+  pages={1--30},
+  year={2024}
+}
+@article{YuefengHanRongChen2024},
+  title={Simultaneous Decorrelation of Matrix Time Series},
+  author={Yuefeng Han, Rong Chen, Cun-Hui Zhang and Qiwei Yao},
+  journal={Journal of the American Statistical Association},
+  pages={957--969},
+  year={2024}
+}
+@article{NanJungHsu2021},
+  title={Matrix Autoregressive Spatio-Temporal Models},
+  author={Nan-Jung Hsu, Hsin-Cheng Huang and Ruey S. Tsay},
+  journal={Journal of Computational and Graphical Statistics},
+  pages={1143--1155},
+  year={2021}
+}
+@article{WaldenSerroukh2002},
+  title={Wavelet analysis of matrix--valued time--series},
+  author={Walden, AT and Serroukh, A},
+  journal={Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences},
+  pages={157--179},
+  year={2002}
+}
+@article{XiaoHanChenLiu2022},
+  title={Reduced rank autoregressive models for matrix time series},
+  author={Xiao, Han and Han, Yuefeng and Chen, Rong and Liu, Chengcheng},
+  journal={Journal of Business and Economic Statistics},
+  pages={},
+  year={2022}
+}
+@misc{HecqRicardoWilms2024},
+  title={Reduced-Rank Matrix Autoregressive Models: A Medium $N$ Approach},
+  author={Alain Hecq and Ivan Ricardo and Ines Wilms},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{CelaniPagnottoniJones2024},
+  title={Bayesian variable selection for matrix autoregressive models},
+  author={Celani, Alessandro and Pagnottoni, Paolo and Jones, Galin},
+  journal={Statistics and Computing},
+  pages={},
+  year={2024}
+}
+@article{CCChanQi2025},
+  title={Large Bayesian matrix autoregressions},
+  author={Joshua C.C. Chan and Yaling Qi},
+  journal={Journal of Econometrics},
+  pages={105955},
+  year={2025}
+}
+@misc{Zhang2024},
+  title={Bayesian Dynamic Factor Models for High-dimensional Matrix-valued Time Series},
+  author={Wei Zhang},
+  journal={},
+  pages={},
+  year={2024}
+}
+@article{HeKongTrapaniYu2024},
+  title={Online change-point detection for matrix-valued time series with latent two-way factor structure},
+  author={Yong He and Xinbing Kong and Lorenzo Trapani and Long Yu},
+  journal={The Annals of Statistics},
+  pages={1646--1670},
+  year={2024}
+}
+@article{ChenHanLiXiaoYangYu2022},
+  title={Analysis of tensor time series: tensorts},
+  author={Chen, Rong and Han, Yuefeng and Li, Zebang and Xiao, Han and Yang, Dan and Yu, Ruofan},
+  journal={Journal of Statistical Software},
+  pages={},
+  year={2022}
+}
+@article{Pena2022},
+  title={Comment on “Factor Models for High-Dimensional Tensor Time Series”},
+  author={Pe\~na, Daniel},
+  journal={Journal of the American Statistical Association},
+  pages={118--123},
+  year={2022}
+}
+@article{LamYao2012},
+  title={Factor modeling for high-dimensional time series: Inference for the number of factors},
+  author={Lam, Clifford and Yao,  Qiwei},
+  journal={The Annals of Statistics},
+  pages={694-726},
+  year={2012}
+}

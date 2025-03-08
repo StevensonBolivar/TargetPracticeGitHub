@@ -4,7 +4,6 @@ Citations|stem|f21e353c705b430e|565d8851bc388e63|66b08fc498b0176b|-2124102317||t
 Citations2|stem|4a234cf49024bf34|ce0ae4594f2d940e|44e59d922d50a3d3|-1811026815||t20155.5538352709s|s6875b|6875|rds|local|vector|||0.01||
 CitationsW|stem|90fd74281a86b6b1|6f91a0d68c68f474|92b950647578ba5d|-1439354293||t20155.5538369616s|s4089b|4089|rds|local|vector|||0.14|Expected 2 pieces. Missing pieces filled with NA in 561 rows 2, 3, 4, 5, 6,7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, ..... Expected 2 pieces. Missing pieces filled with NA in 60 rows 13, 23, 33, 43,53, 63, 73, 83, 90, 101, 112, 122, 135, 146, 157, 164, 175, 184, 198, 213,..... Values from Values are not uniquely identified output will containlistcols. Use values_fn  list to suppress this warning. Use values_fn  summary_fun to summarise duplicates. Use the following dplyr code to identify duplicates.  data   dplyrsummarisen  dplyrn, .by  cID, VarName   dplyrfiltern  1L|
 CitationsList|stem|08f2942acc9b9398|7fb5a0e858614d27|2e8e13b4cb4ac4ba|1114073291||t20155.5538378382s|s4551b|4551|rds|local|vector|||0.04||
-ResFinal|stem|f5920ebdf2600532|9baaf39158a5c945|cb9827030ca22337|-399189283|Results/NewFile.txt|t20155.5538388284s|s13524b|13524|file|local|vector|||0.06||
 LoadCitations|function|ed27cb3c8cf3e318
 GenID|function|1bd597282f523546
 PrintRef|function|292fb524a9185e35
@@ -12,3 +11,4 @@ CleanStep1Df|function|c3cb291f6d93350d
 WiderCitations|function|253f857b274db3d0
 GenID_Df|function|038b703c6ec768fc
 PrintRefDf|function|be7d33f69fc590c9
+ResFinal|stem|f5920ebdf2600532|9baaf39158a5c945|cb9827030ca22337|-399189283|Results/NewFile.txt|t20155.5577497039s|s13524b|13524|file|local|vector|||0.2||
