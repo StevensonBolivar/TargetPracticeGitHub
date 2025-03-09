@@ -64,7 +64,6 @@ list(
              command=GenID_Df(CitationsW)),
   tar_target(name=ResFinal,
              command=PrintRefDf(CitationsList,"NewFile.txt"),
-             format = "file"
-  )
+             format = "file")
 )
 
